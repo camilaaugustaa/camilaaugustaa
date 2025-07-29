@@ -73,7 +73,7 @@ Olá! Eu sou a Camila Augusta, tenho 26 anos e sou mineira. Atualmente estou cur
   alt="GitHub Stats" 
   height="200" 
   style="padding-right: 10px;" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilaaugustaa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilaaugustaa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" 
 />
 
 
