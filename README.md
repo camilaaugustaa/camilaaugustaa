@@ -1,6 +1,6 @@
 ## Camila Augusta 👩🏻‍💻
 
-**`Estudante de programação, com foco no front-end`**
+**`Estudante de programação, com foco no Full stack`**
 
 
 Olá! Eu sou a Camila Augusta, tenho 26 anos e sou mineira. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Newton Paiva.
