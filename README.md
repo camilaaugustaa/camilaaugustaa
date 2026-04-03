@@ -53,7 +53,7 @@ Aqui estão as tecnologias que estou estudando e aplicando nos meus projetos, co
 
 ### 🌟 Meus Projetos em Destaque
 
-## [Projeto de Pipeline ETL: Arquitetura Medallion com Python e PostgreSQL]
+## <a href="https://github.com/camilaaugustaa/arquitetura-medallion-python.git">Projeto de Pipeline ETL: Arquitetura Medallion com Python e PostgreSQL</a>
 
 Este projeto demonstra a construção de um pipeline de dados ponta a ponta, aplicando a Arquitetura Medallion (Bronze, Silver, Gold ) para processar dados brutos, enriquecê-los via API ViaCEP e consolidá-los em um banco de dados PostgreSQL containerizado com Docker. Foco em Data Quality, otimização com Parquet e tratamento de exceções.
 
