@@ -1,81 +1,193 @@
-## Camila Augusta 👩🏻‍💻
+Olá, eu sou a Camila Augusta! 👋
 
-**`Estudante de programação, com foco no Full stack`**
+🚀 Aspirante a Engenheira de Dados | Estudante de Tecnologia
 
+Atualmente, estou em uma jornada intensa de aprendizado para me tornar uma Engenheira de Dados. Meu foco principal é a construção de Pipelines de Dados (ETL/ELT) eficientes, transformando dados brutos em insights valiosos.
 
-Olá! Eu sou a Camila Augusta, tenho 26 anos e sou mineira. Atualmente estou cursando Análise e Desenvolvimento de Sistemas.
- 
- ---
+•
+🔭 Atualmente trabalhando em um Projeto de Pipeline ETL completo, aplicando a Arquitetura Medallion (Bronze, Silver, Gold) e containerização com Docker.
 
- ### 🤖 Linguagens e Tecnologias
+•
+🌱 Evoluindo constantemente em Python e SQL, com foco em processamento de dados e bancos de dados relacionais.
 
- <img 
-  align="left" 
-  alt="HTML" 
-  title="HTML" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
+•
+🎯 Objetivo: Atuar profissionalmente criando arquiteturas de dados robustas e escaláveis, garantindo a qualidade e acessibilidade dos dados.
 
-<img 
-  align="left" 
-  alt="CSS" 
-  title="CSS" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-
-<img 
-  align="left" 
-  alt="JavaScript" 
-  title="JavaScript" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<img 
-  align="left" 
-  alt="TypeScript" 
-  title="TypeScript" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-
-<img 
-  align="left" 
-  alt="Python" 
-  title="Python" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<br/>
-<br/>
-
-### Estatísticas
-
-<img 
-  align="left" 
-  alt="GitHub Stats" 
-  height="200" 
-  style="padding-right: 10px;" 
-  src="https://github-readme-stats.vercel.app/api?username=camilaaugustaa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-/>
-
-
-<img 
-  align="left" 
-  alt="GitHub Stats" 
-  height="200" 
-  style="padding-right: 10px;" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilaaugustaa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" 
-/>
+•
+📫 Como me encontrar: LinkedIn
 
 
 
+
+🛠️ Tecnologias e Ferramentas
+
+Aqui estão as tecnologias que estou estudando e aplicando nos meus projetos, com foco em Engenharia de Dados:
+
+Linguagens:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Engenharia de Dados:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bancos de Dados:
+
+
+
+
+
+
+
+
+
+
+Containerização:
+
+
+
+
+
+
+
+
+
+
+Bibliotecas Python:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ferramentas de Desenvolvimento:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+📈 Estatísticas do GitHub
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilaaugustaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilaaugustaa&layout=compact&langs_count=7&theme=dracula" />
+</p>
+
+
+
+
+🌟 Meus Projetos em Destaque
+
+[Projeto de Pipeline ETL: Arquitetura Medallion com Python e PostgreSQL]
+
+Este projeto demonstra a construção de um pipeline de dados ponta a ponta, aplicando a Arquitetura Medallion (Bronze, Silver, Gold ) para processar dados brutos, enriquecê-los via API ViaCEP e consolidá-los em um banco de dados PostgreSQL containerizado com Docker. Foco em Data Quality, otimização com Parquet e tratamento de exceções.
+
+•
+Tech Stack: Python, Pandas, Requests, Psycopg2, SQLAlchemy, PostgreSQL, Docker, Parquet.
+
+•
+O que aprendi: Implementação de arquiteturas de dados robustas, containerização, integração de APIs, otimização de armazenamento e manipulação avançada de dados.
+
+
+
+
+"Dados são o novo petróleo, mas a engenharia é a refinaria que os torna úteis."
 
