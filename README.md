@@ -14,7 +14,7 @@ Atualmente, estou em uma jornada intensa de aprendizado para me tornar uma Engen
 🎯 Objetivo: Atuar profissionalmente criando arquiteturas de dados robustas e escaláveis, garantindo a qualidade e acessibilidade dos dados.
 
 •
-📫 Como me encontrar: LinkedIn
+📫 Como me encontrar: https://linkedin.com/in/camilaaugustasnt
 
 ## 🛠️ Tecnologias e Ferramentas
 
